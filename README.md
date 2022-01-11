@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shagil Islam
 - 👀 I’m interested in Python Development, App Development and Competitive Coding
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Python Development
+- 💞️ I’m looking to collaborate on Android App Development
 - 📫 How to reach me shagilislam786@gmail.com
 
 <!---
