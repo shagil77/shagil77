@@ -9,11 +9,11 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-- 🔭 I'm currently working on Android and Blockchain Technology.
-- 🌱 I'm currently learning Node.js and Data Science.
-- 👯 I'm looking to collaborate on Open Source Android as well as Decentralized Applications.
+- 🔭 I'm currently working on Android, Node.js, Next.js, React.js, Docker, Kubernetes, CI/CD and Blockchain Technology.
+- 🌱 I'm currently learning the microservices architecture.
+- 👯 I'm looking to collaborate on Open Source as well as Decentralized Applications.
 - 🤔 I'm looking for help with improving my Open Source Knowledge.
-- 💬 Ask me about Android, Blockchain.
+- 💬 Ask me about Android, FullStack, Blockchain.
 - 📫 How to reach me: shagilislam786@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm into Music and Shayaris (poems)!
